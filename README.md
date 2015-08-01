@@ -40,11 +40,11 @@ Given the existing set of registered players and the matches they have played, g
 
 ### **Setup Instructions**
 
-1.	First download and then install the python 2.7 module in your system.
+1.	First download and then install the [python 2.7](https://www.python.org/downloads/) module in your system.
 
-2.	Download and install the PostgreSQL database.
+2.	Download and install the [PostgreSQL database](http://www.postgresql.org/download/windows/).
 
-3.	Download and install the PostgreSQL adapter for Python programming language Psycopg2.
+3.	Download and install the PostgreSQL adapter for Python programming language [Psycopg2](http://initd.org/psycopg/download/).
 
 4.	Run the tournament_test.py file in order to test the functionalities of the program. 
 
